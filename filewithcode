@@ -1,3 +1,4 @@
 function hello() {
 	print hello smth
 }
+#this is how we use it
