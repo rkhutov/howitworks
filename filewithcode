@@ -1,7 +1,0 @@
-function hello() {
-	print hello smth
-}
-#this is how we use it
-function do_all_your_work() {
-	print "it never happen"
-}
